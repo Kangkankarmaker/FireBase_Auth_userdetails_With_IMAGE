@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FireBase Auth user details</string>
+
+    <string name="input_error_email">Invalid E_Mail</string>
+    <string name="input_error_email_invalid">Invalid E_Mail</string>
+    <string name="input_error_password">Password Error</string>
+    <string name="input_error_password_length">Password Error</string>
+    <string name="input_error_name">Please Enter A Name</string>
+    <string name="input_error_phone">Please Enter A Phone</string>
+    <string name="input_error_phone_invalid">Invalid Phone</string>
+</resources>
